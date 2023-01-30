@@ -1,0 +1,13 @@
+{
+    "rabbitmq":{
+        "ip":"192.168.25.56",
+        "port":5672,
+        "id":"guest",
+        "pw":"guest",
+        "vhost":"/"
+    },
+    "service":{
+        "name":"test_service",
+        "queue":"test_service"
+    }
+}
